@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.tabla{
+	border:solid black;
+	border-collapse: colapse;
+}       
+.celda{
+	border-right:solid black;
+}
+.footer{
+	display:grid
+}
