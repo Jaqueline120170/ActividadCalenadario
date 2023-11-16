@@ -1,11 +1,29 @@
 @charset "UTF-8";
 .tabla{
-	border:solid black;
-	border-collapse: colapse;
-}       
+	border:1px solid black;
+	border-collapse: collapse;
+	
+}    
+
+caption{
+	border-collapse: collapse;
+border:1px solid black;
+font-size: 4rem;
+background-color: rgb(128, 128, 255);
+}   
 .celda{
-	border-right:solid black;
+	border-collapse:solid black;
+	font-size: 2rem;
+}
+
+th{
+	font-size: 2rem;
+	
+}
+td{
+	font-size: 1rem;
+	border: solid black;
 }
 .footer{
-	display:grid
+	display:grid;
 }
