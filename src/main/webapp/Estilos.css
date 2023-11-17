@@ -1,13 +1,21 @@
 @charset "UTF-8";
+div{
+	background-color: lightgrey;
+	width:155%;
+	
+}
+
+
 .tabla{
 	border:1px solid black;
 	border-collapse: collapse;
+	margin-bottom: 2rem;
 	
 }    
 
 caption{
 	border-collapse: collapse;
-border:1px solid black;
+	border:1px solid black;
 font-size: 4rem;
 background-color: rgb(128, 128, 255);
 }   
@@ -24,6 +32,74 @@ td{
 	font-size: 1rem;
 	border: solid black;
 }
+
 .footer{
 	display:grid;
 }
+
+
+
+.tabla1{
+	border:1px solid black;
+	border-collapse: collapse;
+	margin-bottom: 2rem;
+	
+}
+.calendario2{
+	background-color:lightpink;
+	width:155%;
+	
+}
+
+
+
+
+.titulo2{
+	border-collapse: collapse;
+	border:1px solid black;
+font-size: 4rem;
+background-color:mediumpurple;
+}   
+
+
+
+
+.footer{
+	display:grid;
+}
+
+
+.tabla2{
+	border:1px solid black;
+	border-collapse: collapse;
+	
+	
+}
+
+.calendario3{
+	background-color: lightgrey;
+	width:155%;
+
+	
+}
+
+
+
+.titulo3{
+	border-collapse: collapse;
+	border:1px solid black;
+font-size: 4rem;
+background-color:rebeccapurple;
+}   
+.celda{
+	border-collapse:solid black;
+	font-size: 2rem;
+}
+
+
+.footer{
+	display:grid;
+}
+
+
+
