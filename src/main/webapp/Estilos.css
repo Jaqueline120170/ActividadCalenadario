@@ -1,7 +1,13 @@
 @charset "UTF-8";
+
+#calendarios {
+  overflow-y: visible;
+  margin-bottom: 120px;
+}
 div{
 	background-color: lightgrey;
 	width:155%;
+
 	
 }
 
@@ -9,7 +15,7 @@ div{
 .tabla{
 	border:1px solid black;
 	border-collapse: collapse;
-	margin-bottom: 2rem;
+
 	
 }    
 
@@ -41,18 +47,19 @@ td{
 
 .tabla1{
 	border:1px solid black;
-	border-collapse: collapse;
+	border-collapse: collapse;	
+}
+
+.tabla1{
 	margin-bottom: 2rem;
-	
 }
 .calendario2{
 	background-color:lightpink;
 	width:155%;
+	margin-top: 2rem;
+	
 	
 }
-
-
-
 
 .titulo2{
 	border-collapse: collapse;
@@ -76,9 +83,14 @@ background-color:mediumpurple;
 	
 }
 
+.tabla2{
+	margin-top: 4rem;
+}
+
 .calendario3{
 	background-color: lightgrey;
 	width:155%;
+	margin-top: 2rem;
 
 	
 }
